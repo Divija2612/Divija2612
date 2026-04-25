@@ -1,4 +1,4 @@
-# Hi, I'm Divija 👋
+# Hello, I'm Divija 
 
 CS student at St. Xavier's College, Kolkata — building things where technology meets real-world impact.
 

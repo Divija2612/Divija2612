@@ -24,10 +24,14 @@ https://divija2612.github.io/portfolio_website/
 
 ### Featured projects
 
-🤙 **[Smart Glove Car](https://github.com/Divija2612/smart-glove-car)** — Gesture-controlled car using MPU6050 + ESP32-C3. Real-time hand motion tracking translated into wireless directional commands. `C++` `Embedded Systems`
+🤙 **[Smart Glove Car](https://github.com/Divija2612/smart-glove-car)**
+Built a gesture-controlled car project using MPU6050 and ESP32-C3 for real-time motion tracking and wireless control. I developed the smart glove module that captured and transmitted hand movements as directional commands, while the car hardware and receiver system were developed collaboratively with my teammate. Applied embedded systems, IoT, sensor integration, and wireless communication concepts to achieve responsive real-time performance.
+
+**Tech:** `C++` `ESP32` `MPU6050` `Embedded Systems` `IoT`
 
 ---
-### 📈 **[Employee Pulse — Real-Time Progress Tracker](https://github.com/Divija2612/employee-progress-tracker)** 
+
+📈 **[Employee Pulse — Real-Time Progress Tracker](https://github.com/Divija2612/employee-progress-tracker)** 
 A real-time employee daily progress tracking web app built with HTML, Tailwind CSS, and Firebase.
 
 Employees can log daily updates tagged as **In Progress**, **Stuck**, or **Completed**, while admins monitor live activity, completed orders, employee metrics, and workflow progress through a centralized dashboard.

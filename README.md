@@ -9,6 +9,12 @@ I've always been curious about how ideas turn into real systems — things you c
 Beyond code, I thrive in collaborative spaces — organizing tech events, contributing to editorial work, and finding that leaders communicate as well as build.
 
 ---
+## 🌐 Portfolio Website
+
+🔗 Live Portfolio:  
+https://divija2612.github.io/portfolio_website/
+
+---
 
 ### Skills & tools
 
@@ -20,9 +26,13 @@ Beyond code, I thrive in collaborative spaces — organizing tech events, contri
 
 🤙 **[Smart Glove Car](https://github.com/Divija2612/smart-glove-car)** — Gesture-controlled car using MPU6050 + ESP32-C3. Real-time hand motion tracking translated into wireless directional commands. `C++` `Embedded Systems`
 
-📊 **[Instagram SQL Project](https://github.com/Divija2612/instagram-sql-project)** — Instagram-like database with SQL tables, queries, and CTEs to analyze user behavior patterns. `Python` `SQL`
+---
+### 📈 **[Employee Pulse — Real-Time Progress Tracker]()** 
+A real-time employee daily progress tracking web app built with HTML, Tailwind CSS, and Firebase.
 
-🗓️ **[Attendance Tracking System](https://github.com/Divija2612/attendance-tracking-system-java)** — Java Swing + PostgreSQL system for tracking student attendance. `Java` `PostgreSQL`
+Employees can log daily updates tagged as **In Progress**, **Stuck**, or **Completed**, while admins monitor live activity, completed orders, employee metrics, and workflow progress through a centralized dashboard.
+
+**Tech:** `HTML` `Tailwind CSS` `Firebase` `Firestore`
 
 ---
 

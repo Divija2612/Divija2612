@@ -9,6 +9,17 @@ I've always been curious about how ideas turn into real systems — things you c
 Beyond code, I thrive in collaborative spaces — organizing tech events, contributing to editorial work, and finding that leaders communicate as well as build.
 
 ---
+
+## Open Source Contributions
+
+### SketchLogic
+- First open-source contribution
+- Merged PR #48
+- Made changes in Python language (as per mentioned)
+- PR: https://github.com/ShahzaibAhmad05/SketchLogic/pull/48
+
+---
+
 ## 🌐 Portfolio Website
 
 🔗 Live Portfolio:  

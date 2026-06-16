@@ -16,7 +16,22 @@ Beyond code, I thrive in collaborative spaces — organizing tech events, contri
 - First open-source contribution
 - Merged PR #48
 - Made changes in Python language (as per mentioned)
-- PR: https://github.com/ShahzaibAhmad05/SketchLogic/pull/48
+- PR: https://github.com/ShahzaibAhmad05/SketchLogic/pull/48## Open Source Contributions
+
+---
+
+### Terminal-Arcade
+
+- Implemented a new terminal-based Ice Cream Machine game.
+- Added customer orders, ingredient selection, scoring, and replay functionality.
+- Worked through the complete open-source workflow:
+
+  * Forking the repository
+  * Creating a feature branch
+  * Opening a Pull Request
+  * Addressing maintainer review feedback
+  * Successfully merging into the main branch
+- Merged PR #58
 
 ---
 

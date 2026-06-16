@@ -16,7 +16,7 @@ Beyond code, I thrive in collaborative spaces — organizing tech events, contri
 - First open-source contribution
 - Merged PR #48
 - Made changes in Python language (as per mentioned)
-- PR: https://github.com/ShahzaibAhmad05/SketchLogic/pull/48## Open Source Contributions
+- PR: https://github.com/ShahzaibAhmad05/SketchLogic/pull/48
 
 ---
 
@@ -32,6 +32,7 @@ Beyond code, I thrive in collaborative spaces — organizing tech events, contri
   * Addressing maintainer review feedback
   * Successfully merging into the main branch
 - Merged PR #58
+- PR: https://github.com/Yugo206/Terminal-Arcade/pull/58
 
 ---
 

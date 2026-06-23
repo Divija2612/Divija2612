@@ -36,6 +36,18 @@ Beyond code, I thrive in collaborative spaces — organizing tech events, contri
 
 ---
 
+### Glitch Machine (Terminal Arcade)
+
+- Contributed a terminal-based mini-game: Glitch Machine
+- Implemented corrupted string decoding gameplay logic
+- Added multi-round system with score tracking
+- Followed strict repository CI rules and fixed validation issues (AUTHOR metadata requirement)
+- Updated PR after review feedback (removed unused imports)
+- Successfully merged PR #85
+- PR: https://github.com/Yugo206/Terminal-Arcade/pull/85
+
+---
+
 ## 🌐 Portfolio Website
 
 🔗 Live Portfolio:  

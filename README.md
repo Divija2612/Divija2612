@@ -48,6 +48,18 @@ Beyond code, I thrive in collaborative spaces — organizing tech events, contri
 
 ---
 
+### Python Software Foundation (PSF) Black project
+
+- Fixed two documentation issues in docs/usage_and_configuration/the_basics.md
+- Corrected the typo "laborously" → "laboriously"
+- Standardized "MacOS" → "macOS" for official capitalization consistency
+- Language: Markdown (Documentation)
+- Closes Issue #5208
+- Successfully merged PR #5217
+- PR: https://github.com/psf/black/pull/5217
+  
+---
+
 ## 🌐 Portfolio Website
 
 🔗 Live Portfolio:  
